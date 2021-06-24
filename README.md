@@ -15,7 +15,7 @@
 # 扩展使用
   
  - **添加了上传文件的接口**
- - **`NodeElement`只实现了`Image``Link``Text``Video`,调用`NodeElement.ToJson`即可以获取到参数用的content**
+ - **`NodeElement`只实现了`Image` `Link` `Text` `Video`,调用`NodeElement.ToJson`即可以获取到参数用的content**
  - **友情联动[隔壁项目](https://github.com/FirmianaMarsili/picacomic-api),又可以干很多好玩的事情**
  
  
